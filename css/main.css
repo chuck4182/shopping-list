@@ -1,0 +1,91 @@
+body{
+	background-color: white;
+	color: #f5f5f5;
+	font-family: arial, sans-serif;
+	text-align: center;
+}
+
+#logo {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#container {
+	background-color: #575757;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+button, #add_item_box{
+	height: 30px;
+	border-radius: 30px;
+}
+h1{
+	font-size: 42px;
+}
+
+
+#add_item_box{
+	text-align: center;
+	color: black;
+	text-decoration-color: black;
+}
+
+#wrapper{
+	width: 100%;
+	
+	}
+
+
+.item_span{
+	text-decoration: none;
+}
+#dynamic_list {
+	width: 400px;
+	margin: 10 0 10 45px;
+	font-size: 24pt;
+	
+	
+}
+
+.item_div {
+	border: 1px solid white;
+	width: 410px;
+	height: 40px;
+	text-align: center;
+	margin-bottom: 10px;
+	border-radius: 4px;
+	background-color: black;
+	
+}
+
+
+.btn_delete {
+	float: right;
+	font-size: 20px;
+	margin-top: 3px;
+	margin-right: -110px;
+	margin-bottom: 200px;
+	
+
+}
+
+
+
+.btn_done {
+	font-size: 14px;
+	float: left;
+	width: 100px;
+	text-align: right;
+	margin-left: -20px;
+	margin-top: 7px;
+	margin-bottom: -15px;
+	font-style: italic;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
